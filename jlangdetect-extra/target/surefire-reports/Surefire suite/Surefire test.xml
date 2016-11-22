@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Surefire test" failures="0" tests="3" time="0.586" errors="0">
+  <properties/>
+  <testcase name="shouldDetectLanguages" time="0.578" classname="com.champeau.ld.UberLanguageDetectionTest"/>
+  <testcase name="testScores" time="0.001" classname="com.champeau.ld.UberLanguageDetectionTest"/>
+  <testcase name="shouldFailRegisteringLanguage" time="0.0" classname="com.champeau.ld.UberLanguageDetectionTest"/>
+</testsuite>

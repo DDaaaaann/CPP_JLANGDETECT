@@ -1,0 +1,14 @@
+me/champeau/ld/GramTreeBuilder$MinimalNode.class
+me/champeau/ld/learn/util/DirectoryLearning.class
+me/champeau/ld/GramTreeBuilder$1.class
+me/champeau/ld/learn/util/DirectoryLearning$1.class
+me/champeau/ld/NGramIterator.class
+me/champeau/ld/GramTreeBuilder.class
+me/champeau/ld/LangDetector.class
+me/champeau/ld/AbstractGramTree.class
+me/champeau/ld/learn/util/LearningException.class
+me/champeau/ld/NGramTokenizer.class
+me/champeau/ld/AbstractGramTree$AbstractNode.class
+me/champeau/ld/LangDetector$Score.class
+me/champeau/ld/GramTreeBuilder$NodeBuilder.class
+me/champeau/ld/GramTreeImpl.class
